@@ -1,1 +1,6 @@
-
+.background-imaged {
+  background-image: url(../thingu.jpg);
+  background-repeat: no-repeat;
+  font-style: italic;
+  background-color: lightblue;
+}
