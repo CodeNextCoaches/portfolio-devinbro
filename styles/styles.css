@@ -2,5 +2,16 @@
   background-image: url(../thingu.jpg);
   background-repeat: no-repeat;
   font-style: italic;
-  background-color: lightblue;
+  background-color: #333333 ;
+
+}
+.center{
+  text-align:center;
+}
+.background{
+
+}
+.image{
+
+  border-radius: 50%;
 }
